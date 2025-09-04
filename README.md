@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the paper:
 
-**[AR-KAN: Autoregressive-Weight-Enhanced Kolmogorov–Arnold Network for Time Series Forecasting]()**
+**[AR-KAN: Autoregressive-Weight-Enhanced Kolmogorov–Arnold Network for Time Series Forecasting](https://arxiv.org/abs/2509.02967)**
 
 Based on the Universal Myopic Mapping Theorem, we use the Kolmogorov-Arnold Network (KAN) as the static nonlinear part and design the memory structure using a pre-trained AR model. In our experimental results, AR-KAN achieved the best performance on 72% of the real-world datasets.
 
